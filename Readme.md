@@ -6,5 +6,8 @@ Packages used are
 3. "react-redux": For State Management
 4. "react-router-dom": For routing through out the application
  
+User Login and Sign Up functionalites are made in Backend using Node and Mongo DB
+
+Backend and Frontend code are seperated, both can be ran seperatly using "npm i"  followed by "npm start" in their respective folders
 
 Project is live at https://akashmishra-tvshows.vercel.app/
